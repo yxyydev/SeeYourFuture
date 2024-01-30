@@ -19,7 +19,9 @@ const respostas = [
   'As perspectivas não são tão boas.',
   'Sim.',
   'Concentre-se e pergunte novamente.',
-  'Sinais apontam que sim.'
+  'Sinais apontam que sim.',
+  'espero que sim.',
+  'se mata.'
 ]
 function fazerPergunta() {
   if (inputPergunta.value == '') {
